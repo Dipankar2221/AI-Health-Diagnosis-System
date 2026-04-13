@@ -1,0 +1,1107 @@
+2026-04-06T11:19:58.578Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:19:58.636Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:19:58.652Z [ERROR]: ❌ ML Server NOT reachable. Please start Flask server!
+2026-04-06T11:22:54.266Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:22:54.334Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:22:54.368Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T11:31:07.546Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:31:07.583Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:31:07.721Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T11:31:58.131Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:31:58.156Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:31:58.184Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T11:33:26.885Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:33:26.921Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:33:26.954Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T11:39:23.105Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T11:39:23.134Z [INFO]: MongoDB Connected: localhost
+2026-04-06T11:39:23.166Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T11:46:05.633Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T11:47:00.077Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T11:47:56.774Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T11:48:02.808Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T11:54:06.000Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T11:58:45.999Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T12:00:21.329Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T12:00:21.332Z [INFO]: 🔍 Checking ML Server...
+2026-04-06T12:00:21.398Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T12:00:21.403Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T12:03:13.160Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T12:03:13.163Z [INFO]: 🔍 Checking ML Server...
+2026-04-06T12:03:13.200Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T12:03:13.213Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T12:05:25.084Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T12:05:25.087Z [INFO]: 🔍 Checking ML Server...
+2026-04-06T12:05:25.137Z [INFO]: ✅ ML Server Connected
+2026-04-06T12:05:25.147Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T12:17:27.054Z [INFO]: New user registered: dipubh999@gmail.com
+2026-04-06T12:24:46.367Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-06T12:24:46.371Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-06T12:24:47.093Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-06T12:24:47.103Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-06T12:24:47.106Z [ERROR]: ❌ Error:
+2026-04-06T12:34:52.092Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T12:34:52.098Z [INFO]: 🔍 Checking ML Server...
+2026-04-06T12:34:52.234Z [INFO]: ✅ ML Server Connected
+2026-04-06T12:34:52.239Z [INFO]: 🚀 Server running on port 3000
+2026-04-06T12:36:15.910Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-06T12:36:15.910Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-06T12:36:16.603Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-06T12:36:16.605Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":60,"success":true}
+2026-04-06T12:38:50.202Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-06T12:38:50.203Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-06T12:38:50.246Z [INFO]: ⬅️ Response from ML: /liver | Status: 404
+2026-04-06T12:38:50.260Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-06T12:38:50.264Z [ERROR]: ❌ Error:
+2026-04-06T12:41:03.786Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-06T12:41:03.786Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-06T12:41:03.801Z [INFO]: ⬅️ Response from ML: /liver | Status: 404
+2026-04-06T12:41:03.803Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-06T12:41:03.807Z [ERROR]: ❌ Error:
+2026-04-06T12:51:17.440Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-06T12:51:17.448Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-06T12:51:17.530Z [INFO]: ⬅️ Response from ML: /liver | Status: 404
+2026-04-06T12:51:17.541Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-06T12:51:17.542Z [ERROR]: ❌ Error:
+2026-04-06T12:53:58.720Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-06T12:53:58.721Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-06T12:53:58.988Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-06T12:53:58.993Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":33.33,"success":true}
+2026-04-06T12:56:51.192Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-06T12:56:51.193Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-06T12:56:51.348Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-06T12:56:51.351Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":2,"success":true}
+2026-04-06T12:57:52.080Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-06T12:57:52.084Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-06T12:57:52.142Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-06T12:57:52.146Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-06T12:58:45.599Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-06T12:58:45.600Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-06T12:58:45.620Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-06T12:58:45.621Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":100,"success":true}
+2026-04-06T13:00:43.347Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-06T13:00:43.348Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-06T13:00:43.368Z [INFO]: ⬅️ Response from ML: /kidney | Status: 404
+2026-04-06T13:00:43.384Z [ERROR]: ❌ ML ERROR (/kidney): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-06T13:00:43.389Z [ERROR]: ❌ Error:
+2026-04-06T13:01:12.293Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-06T13:01:12.306Z [INFO]: 🔍 Checking ML Server...
+2026-04-06T13:01:12.424Z [WARN]: ⚠️ ML Server responded but not OK
+2026-04-06T13:01:12.442Z [INFO]: 🚀 Server running on port 3000
+2026-04-07T01:56:54.277Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T01:56:54.279Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T01:56:54.292Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-07T01:56:54.296Z [INFO]: 🚀 Server running on port 3000
+2026-04-07T01:57:48.779Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T01:57:48.782Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T01:57:48.817Z [INFO]: ✅ ML Server Connected
+2026-04-07T01:57:48.820Z [INFO]: 🚀 Server running on port 3000
+2026-04-07T02:25:04.913Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T02:25:04.920Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T02:25:05.450Z [INFO]: ⬅️ Response from ML: /liver | Status: 500
+2026-04-07T02:25:05.469Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:25:05.473Z [ERROR]: ❌ Error:
+2026-04-07T02:25:26.300Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:25:26.301Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:25:26.790Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 500
+2026-04-07T02:25:26.793Z [ERROR]: ❌ ML ERROR (/diabetes): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:25:26.795Z [ERROR]: ❌ Error:
+2026-04-07T02:26:35.383Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:26:35.388Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:26:35.594Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T02:26:35.597Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":50,"success":true}
+2026-04-07T02:26:42.494Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:26:42.494Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:26:42.524Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T02:26:42.529Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":50,"success":true}
+2026-04-07T02:26:44.903Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:26:44.905Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:26:44.986Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T02:26:44.989Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":50,"success":true}
+2026-04-07T02:27:18.588Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:27:18.589Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:27:18.617Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T02:27:18.621Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":50,"success":true}
+2026-04-07T02:27:20.712Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T02:27:20.712Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T02:27:20.740Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T02:27:20.744Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":50,"success":true}
+2026-04-07T02:27:34.612Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-07T02:27:34.613Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-07T02:27:34.705Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-07T02:27:34.707Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:27:34.712Z [ERROR]: ❌ Error:
+2026-04-07T02:27:55.262Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-07T02:27:55.262Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-07T02:27:55.337Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-07T02:27:55.369Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:27:55.393Z [ERROR]: ❌ Error:
+2026-04-07T02:34:27.018Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T02:34:27.029Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T02:34:27.107Z [INFO]: ✅ ML Server Connected
+2026-04-07T02:34:27.112Z [INFO]: 🚀 Server running on port 3000
+2026-04-07T02:46:17.274Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T02:46:17.278Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T02:46:17.444Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T02:46:17.465Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:46:17.469Z [ERROR]: ❌ Error:
+2026-04-07T02:52:08.418Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T02:52:08.425Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T02:52:08.511Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T02:52:08.515Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:52:08.516Z [ERROR]: ❌ Error:
+2026-04-07T02:53:53.224Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T02:53:53.225Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T02:53:53.283Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T02:53:53.288Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T02:53:53.289Z [ERROR]: ❌ Error:
+2026-04-07T03:18:56.717Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:18:56.719Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:18:56.780Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:18:56.783Z [INFO]: 🚀 Server running on port 3000
+2026-04-07T03:24:07.393Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:24:07.395Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:24:07.447Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:24:07.450Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T03:25:41.774Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:25:41.776Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:25:41.812Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:25:41.815Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T03:30:05.912Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:30:05.914Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:30:05.955Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:30:05.958Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T03:30:43.536Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:30:43.538Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:30:43.575Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:30:43.577Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T03:30:57.539Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T03:30:57.542Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T03:30:57.581Z [INFO]: ✅ ML Server Connected
+2026-04-07T03:30:57.584Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T03:40:40.628Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T03:40:40.630Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T03:40:40.898Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T03:40:40.903Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":100,"success":true}
+2026-04-07T03:43:45.694Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T03:43:45.697Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T03:43:45.821Z [INFO]: ⬅️ Response from ML: /liver | Status: 500
+2026-04-07T03:43:45.832Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T03:43:45.835Z [ERROR]: ❌ Error:
+2026-04-07T03:46:22.389Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T03:46:22.389Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T03:46:22.532Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T03:46:22.534Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T03:46:22.535Z [ERROR]: ❌ Error:
+2026-04-07T03:46:31.473Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T03:46:31.474Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T03:46:31.501Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T03:46:31.502Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T03:46:31.509Z [ERROR]: ❌ Error:
+2026-04-07T03:51:14.347Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T03:51:14.347Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T03:51:14.372Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T03:51:14.374Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-07T03:52:37.180Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T03:52:37.182Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T03:52:37.202Z [INFO]: ⬅️ Response from ML: /liver | Status: 500
+2026-04-07T03:52:37.204Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T03:52:37.204Z [ERROR]: ❌ Error:
+2026-04-07T03:57:59.006Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T03:57:59.010Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T03:57:59.061Z [INFO]: ⬅️ Response from ML: /liver | Status: 500
+2026-04-07T03:57:59.065Z [ERROR]: ❌ ML ERROR (/liver): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T03:57:59.067Z [ERROR]: ❌ Error:
+2026-04-07T04:01:25.155Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T04:01:25.157Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T04:01:25.177Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-07T04:01:25.180Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":70.95,"success":true}
+2026-04-07T04:07:11.905Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-07T04:07:11.906Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-07T04:07:11.957Z [INFO]: ⬅️ Response from ML: /kidney | Status: 500
+2026-04-07T04:07:11.964Z [ERROR]: ❌ ML ERROR (/kidney): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T04:07:11.966Z [ERROR]: ❌ Error:
+2026-04-07T04:11:39.356Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-07T04:11:39.357Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-07T04:11:39.393Z [INFO]: ⬅️ Response from ML: /kidney | Status: 200
+2026-04-07T04:11:39.402Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":3,"success":true}
+2026-04-07T04:18:41.850Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T04:18:41.863Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T04:18:41.961Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-07T04:18:41.975Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":88,"success":true}
+2026-04-07T04:32:02.276Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T04:32:02.308Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T04:32:02.484Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-07T04:32:02.517Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T10:58:27.343Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T10:58:27.348Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T10:58:27.457Z [INFO]: ✅ ML Server Connected
+2026-04-07T10:58:27.471Z [INFO]: 🚀 Server running on port 5000
+2026-04-07T11:00:25.036Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T11:00:25.037Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T11:00:25.074Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-07T11:00:25.077Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":38,"success":true}
+2026-04-07T11:01:22.465Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-07T11:01:22.466Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-07T11:01:22.490Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-07T11:01:22.492Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":64,"success":true}
+2026-04-07T11:01:59.652Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-07T11:01:59.653Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-07T11:01:59.678Z [INFO]: ⬅️ Response from ML: /kidney | Status: 200
+2026-04-07T11:01:59.679Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":2,"success":true}
+2026-04-07T11:02:36.914Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T11:02:36.915Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T11:02:37.185Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T11:02:37.192Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T11:02:37.197Z [ERROR]: ❌ Error:
+2026-04-07T11:04:04.967Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T11:04:04.968Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T11:04:05.158Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T11:04:05.160Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T11:04:05.165Z [ERROR]: ❌ Error:
+2026-04-07T11:05:19.043Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T11:05:19.045Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T11:05:19.072Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T11:05:19.074Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T11:05:19.074Z [ERROR]: ❌ Error:
+2026-04-07T11:06:01.707Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-07T11:06:01.708Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-07T11:06:01.766Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-07T11:06:01.768Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":33.33,"success":true}
+2026-04-07T11:07:11.356Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T11:07:11.356Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T11:07:11.386Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T11:07:11.388Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T11:07:11.389Z [ERROR]: ❌ Error:
+2026-04-07T11:16:29.135Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-07T11:16:29.141Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-07T11:16:29.349Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-07T11:16:29.396Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-07T11:16:29.399Z [ERROR]: ❌ Error:
+2026-04-07T11:17:21.017Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-07T11:17:21.027Z [INFO]: 🔍 Checking ML Server...
+2026-04-07T11:17:21.082Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-07T11:17:21.090Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T01:34:07.351Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T01:34:07.356Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T01:34:07.464Z [INFO]: ✅ ML Server Connected
+2026-04-08T01:34:07.468Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T01:35:56.079Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T01:35:56.082Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T01:35:56.558Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-08T01:35:56.568Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-08T01:35:56.571Z [ERROR]: ❌ Error:
+2026-04-08T01:46:10.561Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T01:46:10.563Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T01:46:10.723Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-08T01:46:10.731Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-08T01:46:10.732Z [ERROR]: ❌ Error:
+2026-04-08T01:53:43.035Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T01:53:43.038Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T01:53:43.150Z [INFO]: ✅ ML Server Connected
+2026-04-08T01:53:43.155Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T01:55:20.859Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T01:55:20.860Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T01:55:20.896Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-08T01:55:20.900Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-08T01:55:20.905Z [ERROR]: ❌ Error:
+2026-04-08T01:56:16.707Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T01:56:16.708Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T01:56:16.727Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-08T01:56:16.729Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-08T01:56:16.730Z [ERROR]: ❌ Error:
+2026-04-08T01:57:40.745Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T01:57:40.752Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T01:57:40.846Z [INFO]: ✅ ML Server Connected
+2026-04-08T01:57:40.849Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T01:59:04.457Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T01:59:04.457Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T01:59:04.511Z [INFO]: ⬅️ Response from ML: /heart | Status: 500
+2026-04-08T01:59:04.519Z [ERROR]: ❌ ML ERROR (/heart): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-08T01:59:04.526Z [ERROR]: ❌ Error:
+2026-04-08T02:05:44.150Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T02:05:44.152Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T02:05:44.198Z [INFO]: ✅ ML Server Connected
+2026-04-08T02:05:44.203Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T02:06:25.059Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T02:06:25.060Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T02:06:25.106Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T02:06:25.113Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":87.73,"success":true}
+2026-04-08T02:19:36.722Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T02:19:36.727Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T02:19:36.869Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T02:19:36.887Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":81.57,"success":true}
+2026-04-08T02:22:59.020Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T02:22:59.021Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T02:22:59.045Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T02:22:59.047Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":76.86,"success":true}
+2026-04-08T02:24:28.544Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T02:24:28.545Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T02:24:28.583Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T02:24:28.584Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":68.4,"success":true}
+2026-04-08T02:44:59.979Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T02:44:59.989Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T02:45:00.091Z [INFO]: ✅ ML Server Connected
+2026-04-08T02:45:00.100Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T02:45:15.853Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T02:45:15.856Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T02:45:15.923Z [INFO]: ✅ ML Server Connected
+2026-04-08T02:45:15.930Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T02:49:46.323Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T02:49:46.325Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T02:49:46.402Z [INFO]: ✅ ML Server Connected
+2026-04-08T02:49:46.408Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T02:58:09.516Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T02:58:09.519Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T02:58:09.634Z [INFO]: ✅ ML Server Connected
+2026-04-08T02:58:09.638Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:00:21.287Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:00:21.290Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:00:21.373Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:00:21.377Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:04:29.718Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:04:29.724Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:04:29.800Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:04:29.805Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:06:29.379Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:06:29.383Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:06:29.444Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:06:29.448Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:10:52.200Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:10:52.203Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:10:52.333Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:10:52.352Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:10:57.303Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:10:57.308Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:10:57.379Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:10:57.385Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:11:07.041Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:11:07.045Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:11:07.140Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:11:07.144Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:12:19.951Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:12:19.956Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:12:20.030Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:12:20.036Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:14:22.356Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:14:22.356Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:14:22.599Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:14:22.601Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":54.83,"success":true}
+2026-04-08T03:19:35.518Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:19:35.523Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:19:35.810Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:19:35.811Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":86.28,"success":true}
+2026-04-08T03:29:10.171Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:29:10.180Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:29:10.318Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:29:10.323Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:30:51.587Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:30:51.590Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:30:51.680Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:30:51.685Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:32:11.155Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:32:11.156Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:32:11.206Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:32:11.210Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:32:18.739Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:32:18.739Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:32:18.863Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:32:18.865Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":86.28,"success":true}
+2026-04-08T03:33:14.352Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:33:14.353Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:33:14.386Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:33:14.395Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":83.31,"success":true}
+2026-04-08T03:36:36.826Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:36:36.829Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:36:36.904Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:36:36.907Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:37:14.711Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:37:14.715Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:37:14.777Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:37:14.784Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":78.62,"success":true}
+2026-04-08T03:38:42.005Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:38:42.008Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:38:42.072Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:38:42.077Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:39:16.995Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:39:16.997Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:39:17.046Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:39:17.049Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:40:19.050Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:40:19.055Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:40:19.134Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:40:19.138Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:40:23.513Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:40:23.516Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:40:23.599Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:40:23.607Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:40:53.321Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:40:53.323Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:40:53.402Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:40:53.405Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:44:33.328Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:44:33.330Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:44:33.365Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:44:33.375Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:45:23.101Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:45:23.117Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:45:23.217Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:45:23.223Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:46:00.984Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:46:00.984Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:46:01.116Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:46:01.117Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":79.41,"success":true}
+2026-04-08T03:47:54.076Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:47:54.079Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:47:54.119Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:47:54.123Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:48:39.798Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:48:39.802Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:48:39.847Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:48:39.852Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:49:22.667Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:49:22.669Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:49:22.709Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:49:22.725Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:49:30.868Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:49:30.871Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:49:30.901Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:49:30.916Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:04.436Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:04.439Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:04.474Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:04.481Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:31.614Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:31.617Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:31.652Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:31.657Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:34.631Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:34.634Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:34.655Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:34.670Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:44.603Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:44.609Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:44.653Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:44.663Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:54.013Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:54.015Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:54.038Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:54.044Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:51:59.544Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:51:59.547Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:51:59.602Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:51:59.605Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:52:28.401Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:52:28.404Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:52:28.432Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:52:28.450Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:52:33.588Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:52:33.593Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:52:33.626Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:52:33.641Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:52:44.002Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:52:44.005Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:52:44.046Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:52:44.054Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:55:39.942Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T03:55:39.947Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T03:55:40.037Z [INFO]: ✅ ML Server Connected
+2026-04-08T03:55:40.042Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T03:55:57.735Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:55:57.736Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:55:57.816Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:55:57.821Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":79.41,"success":true}
+2026-04-08T03:56:15.839Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T03:56:15.840Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T03:56:15.873Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T03:56:15.875Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":79.41,"success":true}
+2026-04-08T04:03:06.477Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T04:03:06.479Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T04:03:06.532Z [INFO]: ✅ ML Server Connected
+2026-04-08T04:03:06.535Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T04:04:09.880Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T04:04:09.881Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T04:04:09.929Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T04:04:09.932Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":86.67,"success":true}
+2026-04-08T04:04:32.445Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T04:04:32.447Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T04:04:32.509Z [INFO]: ✅ ML Server Connected
+2026-04-08T04:04:32.519Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T04:06:31.878Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T04:06:31.881Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T04:06:31.927Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-08T04:06:31.933Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:30:26.817Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:30:26.820Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:30:26.872Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-08T08:30:26.877Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:32:00.530Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:32:00.535Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:32:00.616Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:32:00.623Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:33:30.365Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:33:30.375Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:33:30.522Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:33:30.526Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:35:43.832Z [INFO]: New user registered: diya@gmail.com
+2026-04-08T08:36:23.718Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:36:23.720Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:36:23.813Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:36:23.815Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":71.89,"success":true}
+2026-04-08T08:43:28.375Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:43:28.378Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:43:28.474Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:43:28.479Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:45:36.177Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:45:36.180Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:45:36.280Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:45:36.286Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:45:46.428Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:45:46.437Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:45:46.587Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:45:46.591Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:45:52.458Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:45:52.461Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:45:52.700Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:45:52.712Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:50:42.390Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:50:42.400Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:50:42.502Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:50:42.509Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:51:35.204Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:51:35.207Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:51:35.285Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:51:35.290Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:51:43.381Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:51:43.383Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:51:43.481Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:51:43.487Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:52:30.377Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:52:30.384Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:52:30.513Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:52:30.517Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:52:34.637Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:52:34.639Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:52:34.721Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:52:34.724Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T08:52:38.401Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:52:38.403Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:52:38.460Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:52:38.465Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:53:53.526Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:53:53.528Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:53:53.550Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:53:53.557Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:54:33.311Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T08:54:33.313Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T08:54:33.339Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T08:54:33.341Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T08:57:34.819Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T08:57:34.824Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T08:57:34.921Z [INFO]: ✅ ML Server Connected
+2026-04-08T08:57:34.936Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:05:23.899Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T09:05:23.902Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T09:05:24.052Z [INFO]: ✅ ML Server Connected
+2026-04-08T09:05:24.084Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:05:29.331Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T09:05:29.332Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T09:05:29.476Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T09:05:29.481Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-08T09:10:23.014Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T09:10:23.022Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T09:10:23.102Z [INFO]: ✅ ML Server Connected
+2026-04-08T09:10:23.108Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:13:01.213Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T09:13:01.216Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T09:13:01.291Z [INFO]: ✅ ML Server Connected
+2026-04-08T09:13:01.295Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:13:06.606Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T09:13:06.609Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T09:13:06.715Z [INFO]: ✅ ML Server Connected
+2026-04-08T09:13:06.720Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:13:10.824Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-08T09:13:10.828Z [INFO]: 🔍 Checking ML Server...
+2026-04-08T09:13:10.905Z [INFO]: ✅ ML Server Connected
+2026-04-08T09:13:10.915Z [INFO]: 🚀 Server running on port 5000
+2026-04-08T09:13:45.941Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-08T09:13:45.941Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-08T09:13:46.017Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-08T09:13:46.019Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":84.4,"success":true}
+2026-04-09T03:43:42.983Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T03:43:42.993Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T03:43:43.098Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-09T03:43:43.114Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T03:44:44.419Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T03:44:44.422Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T03:44:44.520Z [INFO]: ✅ ML Server Connected
+2026-04-09T03:44:44.524Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T03:54:30.607Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T03:54:30.613Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T03:54:31.024Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T03:54:31.036Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T03:56:06.850Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-09T03:56:06.852Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-09T03:56:06.930Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-09T03:56:06.933Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":54.83,"success":true}
+2026-04-09T03:57:10.314Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T03:57:10.315Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T03:57:10.343Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T03:57:10.347Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T04:01:23.791Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-09T04:01:23.792Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-09T04:01:23.891Z [INFO]: ⬅️ Response from ML: /kidney | Status: 200
+2026-04-09T04:01:23.894Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":5,"success":true}
+2026-04-09T04:07:08.893Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:07:08.898Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:07:09.228Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-09T04:07:09.255Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-09T04:07:09.260Z [ERROR]: ❌ Error:
+2026-04-09T04:11:08.496Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:11:08.498Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:11:08.549Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-09T04:11:08.556Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-09T04:11:08.557Z [ERROR]: ❌ Error:
+2026-04-09T04:12:15.124Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:12:15.125Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:12:15.163Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-09T04:12:15.167Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-09T04:12:15.168Z [ERROR]: ❌ Error:
+2026-04-09T04:14:32.047Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-09T04:14:32.047Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-09T04:14:32.067Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-09T04:14:32.068Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":38,"success":true}
+2026-04-09T04:17:10.297Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:17:10.297Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:17:10.322Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-09T04:17:10.324Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-09T04:17:10.325Z [ERROR]: ❌ Error:
+2026-04-09T04:19:23.825Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:19:23.827Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:19:23.848Z [INFO]: ⬅️ Response from ML: /stroke | Status: 500
+2026-04-09T04:19:23.850Z [ERROR]: ❌ ML ERROR (/stroke): Unexpected token '<', "<!doctype "... is not valid JSON
+2026-04-09T04:19:23.850Z [ERROR]: ❌ Error:
+2026-04-09T04:33:18.539Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T04:33:18.543Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T04:33:18.602Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-09T04:33:18.628Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":8,"success":true}
+2026-04-09T04:34:09.930Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-09T04:34:09.930Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-09T04:34:09.954Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-09T04:34:09.967Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":59.36,"success":true}
+2026-04-09T04:34:42.797Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T04:34:42.806Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T04:34:42.873Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-09T04:34:42.878Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T09:35:57.040Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T09:35:57.043Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T09:35:57.130Z [INFO]: ✅ ML Server Connected
+2026-04-09T09:35:57.134Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T09:48:15.507Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T09:48:15.511Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T09:48:15.953Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T09:48:15.965Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T09:50:04.150Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T09:50:04.152Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T09:50:04.296Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-09T09:50:04.297Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":8.67,"success":true}
+2026-04-09T10:02:11.059Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:02:11.067Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:02:11.288Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:02:11.295Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:05:13.307Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:05:13.311Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:05:13.381Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:05:13.388Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:06:14.730Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:06:14.736Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:06:14.794Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:06:14.799Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:06:19.254Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:06:19.257Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:06:19.327Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:06:19.334Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:06:23.704Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:06:23.707Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:06:23.754Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:06:23.758Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:07:40.945Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-09T10:07:40.946Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-09T10:07:41.165Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-09T10:07:41.167Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":59,"success":true}
+2026-04-09T10:12:50.807Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:12:50.809Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:12:50.868Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:12:50.873Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:13:02.153Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:13:02.159Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:13:02.223Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:13:02.227Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:15:22.373Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:15:22.382Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:15:22.484Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:15:22.490Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:15:53.590Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-09T10:15:53.592Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-09T10:15:53.662Z [INFO]: ⬅️ Response from ML: /kidney | Status: 200
+2026-04-09T10:15:53.666Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":4,"success":true}
+2026-04-09T10:21:04.443Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:21:04.445Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:21:04.485Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:21:04.488Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:22:20.123Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:22:20.126Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:22:20.219Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:22:20.227Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:22:57.813Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-09T10:22:57.815Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-09T10:22:57.896Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-09T10:22:57.899Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":56,"success":true}
+2026-04-09T10:27:20.159Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:27:20.167Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:27:20.239Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:27:20.244Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:29:03.545Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T10:29:03.546Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T10:29:03.621Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T10:29:03.624Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T10:31:57.551Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:31:57.560Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:31:57.798Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:31:57.805Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:33:48.282Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:33:48.284Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:33:48.364Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:33:48.368Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:33:54.090Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:33:54.093Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:33:54.172Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:33:54.176Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:34:50.813Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:34:50.816Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:34:50.889Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:34:50.898Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:35:48.261Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-09T10:35:48.262Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-09T10:35:48.450Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-09T10:35:48.454Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":85,"success":true}
+2026-04-09T10:45:12.538Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-09T10:45:12.546Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-09T10:45:12.883Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-09T10:45:12.886Z [INFO]: ✅ ML Result: {"chance_level":"HIGH CHANCE","probability":82,"success":true}
+2026-04-09T10:49:57.119Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T10:49:57.128Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T10:49:57.297Z [INFO]: ✅ ML Server Connected
+2026-04-09T10:49:57.302Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T10:53:54.726Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T10:53:54.733Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T10:53:55.109Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T10:53:55.138Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T10:54:24.621Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T10:54:24.623Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T10:54:24.657Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T10:54:24.661Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T10:55:10.838Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-09T10:55:10.840Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-09T10:55:10.877Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-09T10:55:10.880Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-09T11:13:26.580Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T11:13:26.584Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T11:13:26.753Z [INFO]: ✅ ML Server Connected
+2026-04-09T11:13:26.761Z [INFO]: 🚀 Server running on port 5000
+2026-04-09T11:14:03.596Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-09T11:14:03.597Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-09T11:14:03.861Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-09T11:14:03.863Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":10.67,"success":true}
+2026-04-09T11:17:08.642Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-09T11:17:08.652Z [INFO]: 🔍 Checking ML Server...
+2026-04-09T11:17:08.679Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-09T11:17:08.687Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T01:39:06.529Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T01:39:06.533Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T01:39:06.551Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-10T01:39:06.556Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T01:39:38.734Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T01:39:38.739Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T01:39:38.789Z [INFO]: ✅ ML Server Connected
+2026-04-10T01:39:38.795Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T01:41:53.498Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-10T01:41:53.500Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-10T01:41:53.599Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-10T01:41:53.604Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":64.8,"success":true}
+2026-04-10T01:49:19.465Z [INFO]: 🔥 API HIT: /predict/diabetes
+2026-04-10T01:49:19.479Z [INFO]: ➡️ Sending request to ML: /diabetes
+2026-04-10T01:49:19.851Z [INFO]: ⬅️ Response from ML: /diabetes | Status: 200
+2026-04-10T01:49:19.861Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":0,"success":true}
+2026-04-10T02:05:25.151Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:05:25.165Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:05:25.297Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:05:25.302Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:11:44.537Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:11:44.539Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:11:44.579Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:11:44.581Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:13:20.098Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:13:20.107Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:13:20.180Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:13:20.197Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:18:09.781Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:18:09.783Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:18:09.814Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:18:09.818Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:18:21.927Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:18:21.931Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:18:21.966Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:18:21.973Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:18:27.432Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:18:27.435Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:18:27.457Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:18:27.460Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:19:53.520Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:19:53.522Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:19:53.552Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:19:53.555Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:22:33.646Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:22:33.881Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:22:34.041Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:22:34.048Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:22:36.560Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:22:36.563Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:22:36.611Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:22:36.616Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:23:25.415Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:23:25.421Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:23:25.490Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:23:25.500Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:43:05.695Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:43:05.704Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:43:05.780Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:43:05.794Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:43:52.516Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:43:52.519Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:43:52.591Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:43:52.597Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:44:49.561Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:44:49.564Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:44:49.593Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:44:49.597Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:44:56.403Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:44:56.406Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:44:56.474Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:44:56.484Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:45:00.227Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:45:00.244Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:45:00.295Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:45:00.300Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:45:16.385Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:45:16.388Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:45:16.435Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:45:16.439Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:45:25.807Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:45:25.809Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:45:25.842Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:45:25.856Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:45:30.820Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:45:30.824Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:45:30.860Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:45:30.875Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T02:51:49.531Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T02:51:49.536Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T02:51:49.574Z [INFO]: ✅ ML Server Connected
+2026-04-10T02:51:49.583Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:04:10.930Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:04:10.934Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:04:11.106Z [INFO]: ✅ ML Server Connected
+2026-04-10T03:04:11.110Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:10:59.537Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:10:59.539Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:10:59.723Z [INFO]: ✅ ML Server Connected
+2026-04-10T03:10:59.729Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:15:01.924Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:15:01.930Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:15:02.025Z [INFO]: ✅ ML Server Connected
+2026-04-10T03:15:02.030Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:19:24.969Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:19:24.973Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:19:25.072Z [INFO]: ✅ ML Server Connected
+2026-04-10T03:19:25.086Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:32:51.416Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:32:51.422Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:32:51.762Z [INFO]: ✅ ML Server Connected
+2026-04-10T03:32:51.768Z [INFO]: 🚀 Server running on port 5000
+2026-04-10T03:55:14.118Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-10T03:55:14.126Z [INFO]: 🔍 Checking ML Server...
+2026-04-10T03:55:14.145Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-10T03:55:14.151Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:20:23.284Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:20:23.287Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:20:23.303Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-12T16:20:23.307Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:21:08.858Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:21:08.861Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:21:08.945Z [INFO]: ✅ ML Server Connected
+2026-04-12T16:21:08.973Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:22:45.951Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-12T16:22:45.952Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-12T16:22:46.072Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-12T16:22:46.075Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":54.83,"success":true}
+2026-04-12T16:34:33.764Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:34:33.769Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:34:33.857Z [INFO]: ✅ ML Server Connected
+2026-04-12T16:34:33.863Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:34:36.261Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:34:36.264Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:34:36.290Z [INFO]: ✅ ML Server Connected
+2026-04-12T16:34:36.293Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:34:41.733Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:34:41.735Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:34:41.756Z [INFO]: ✅ ML Server Connected
+2026-04-12T16:34:41.759Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:34:49.481Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-12T16:34:49.482Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-12T16:34:49.608Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-12T16:34:49.611Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":54.83,"success":true}
+2026-04-12T16:42:36.264Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T16:42:36.267Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T16:42:36.300Z [INFO]: ✅ ML Server Connected
+2026-04-12T16:42:36.304Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T16:44:23.577Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-12T16:44:23.578Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-12T16:44:23.620Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-12T16:44:23.625Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":54.83,"success":true}
+2026-04-12T17:00:38.456Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:00:38.458Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:00:38.497Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:00:38.501Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:00:55.778Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:00:55.780Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:00:55.809Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:00:55.813Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:01:50.547Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-12T17:01:50.547Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-12T17:01:50.776Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-12T17:01:50.779Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":7.33,"success":true}
+2026-04-12T17:07:09.461Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:07:09.462Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:07:09.488Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:07:09.491Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:07:38.464Z [INFO]: 🔥 API HIT: /predict/stroke
+2026-04-12T17:07:38.465Z [INFO]: ➡️ Sending request to ML: /stroke
+2026-04-12T17:07:38.567Z [INFO]: ⬅️ Response from ML: /stroke | Status: 200
+2026-04-12T17:07:38.570Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":4,"success":true}
+2026-04-12T17:12:53.577Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:12:53.580Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:12:53.633Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:12:53.637Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:13:24.003Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:13:24.010Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:13:24.044Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:13:24.048Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:21:41.899Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:21:41.904Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:21:41.978Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:21:41.989Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:22:16.793Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:22:16.795Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:22:16.837Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:22:16.846Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:30:03.662Z [INFO]: 🔥 API HIT: /predict/liver
+2026-04-12T17:30:03.665Z [INFO]: ➡️ Sending request to ML: /liver
+2026-04-12T17:30:03.869Z [INFO]: ⬅️ Response from ML: /liver | Status: 200
+2026-04-12T17:30:03.874Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":65,"success":true}
+2026-04-12T17:31:43.854Z [INFO]: 🔥 API HIT: /predict/heart
+2026-04-12T17:31:43.858Z [INFO]: ➡️ Sending request to ML: /heart
+2026-04-12T17:31:43.930Z [INFO]: ⬅️ Response from ML: /heart | Status: 200
+2026-04-12T17:31:43.933Z [INFO]: ✅ ML Result: {"chance_level":"MEDIUM CHANCE","probability":64.71,"success":true}
+2026-04-12T17:33:42.104Z [INFO]: 🔥 API HIT: /predict/kidney
+2026-04-12T17:33:42.105Z [INFO]: ➡️ Sending request to ML: /kidney
+2026-04-12T17:33:42.171Z [INFO]: ⬅️ Response from ML: /kidney | Status: 200
+2026-04-12T17:33:42.172Z [INFO]: ✅ ML Result: {"chance_level":"LOW CHANCE","probability":4,"success":true}
+2026-04-12T17:37:41.610Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:37:41.613Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:37:41.655Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:37:41.659Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:38:02.835Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:38:02.839Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:38:02.888Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:38:02.893Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:38:26.761Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:38:26.763Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:38:26.808Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:38:26.812Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:39:18.534Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:39:18.542Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:39:18.607Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:39:18.630Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:39:26.894Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:39:26.898Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:39:26.945Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:39:26.970Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:39:31.659Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:39:31.662Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:39:31.694Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:39:31.702Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:39:50.473Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:39:50.476Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:39:50.507Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:39:50.512Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:40:40.221Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:40:40.226Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:40:40.284Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:40:40.289Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:40:48.697Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:40:48.700Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:40:48.752Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:40:48.755Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:41:28.978Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:41:28.981Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:41:29.022Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:41:29.026Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:51:25.207Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:51:25.217Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:51:25.274Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:51:25.278Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T17:55:06.275Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T17:55:06.287Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T17:55:06.343Z [INFO]: ✅ ML Server Connected
+2026-04-12T17:55:06.347Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:00:20.681Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:00:20.684Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:00:20.820Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:00:21.024Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:04:49.279Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:04:49.284Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:04:49.349Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:04:49.354Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:12:19.472Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:12:19.484Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:12:19.707Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:12:19.716Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:08.127Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:08.130Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:08.161Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:08.168Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:12.488Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:12.491Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:12.548Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:12.552Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:25.172Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:25.185Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:25.249Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:25.255Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:29.623Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:29.625Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:29.670Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:29.674Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:34.792Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:34.797Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:34.851Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:34.856Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T18:14:39.110Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T18:14:39.135Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T18:14:39.207Z [INFO]: ✅ ML Server Connected
+2026-04-12T18:14:39.213Z [INFO]: 🚀 Server running on port 5000
+2026-04-12T20:20:58.944Z [INFO]: ✅ MongoDB Connected: localhost
+2026-04-12T20:20:58.956Z [INFO]: 🔍 Checking ML Server...
+2026-04-12T20:20:58.975Z [ERROR]: ❌ ML Server NOT reachable. Start Python server!
+2026-04-12T20:20:58.979Z [INFO]: 🚀 Server running on port 5000
